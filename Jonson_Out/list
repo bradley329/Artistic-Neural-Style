@@ -1,0 +1,17 @@
+style: van_Gogh_1.jpg
+content: facai.jpg
+input: facai.jpg
+output: 1.jpg
+model: vanGogh_1.pth
+
+style: van_Gogh_1.jpg
+content: content.jpg
+input: content.jpg
+output: 2.jpg
+model: vanGogh_1.pth
+
+style: van_Gogh_2.jpg
+content: facai.jpg
+input: facai.jpg
+output: 2.jpg
+model: vanGogh_2(relu4_3).pth

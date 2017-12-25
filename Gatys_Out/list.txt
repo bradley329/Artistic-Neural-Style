@@ -1,0 +1,99 @@
+style: emboss.jpg
+content: content.jpg
+input: white_noise
+output: 1.jpg
+
+style: van_Gogh_2.jpg
+content: content.jpg
+input: white_noise
+output: 2.jpg
+
+style: yuyuan2.jpg
+content: content.jpg
+input: white_noise
+output: 3.jpg
+
+style: van_Gogh_2.jpg
+content: content.jpg
+input: content.jpg
+output: 4.jpg
+
+style: yuyuan2.jpg
+content: content.jpg
+input: content.jpg
+output: 5.jpg
+
+style: emboss.jpg
+content: content.jpg
+input: content.jpg
+output: 6.jpg
+
+style: vanGogh_2.jpg
+content: facai.jpg
+input: facai.jpg
+output: 7.jpg
+
+style: yuyuan2.jpg
+content: facai.jpg
+input: facai.jpg
+output: 8.jpg
+
+style: mosaic.jpg
+content: facai.jpg
+input: facai.jpg
+output: 9.jpg
+
+style: joker.jpg
+content: facai.jpg
+input: facai.jpg
+output: 10.jpg
+
+style: modern1.jpg
+content: facai.jpg
+input: facai.jpg
+output: 11.jpg
+
+style: southpark.jpg
+content: facai.jpg
+input: facai.jpg
+output: 12.jpg
+
+style: modern1.jpg
+content: southpark.jpg
+input: southpark.jpg
+output: 13.jpg
+
+style: cat.jpg
+content: facai.jpg
+input: facai.jpg
+output: 14.jpg
+
+style: vanGogh_1.jpg
+content: facai.jpg
+input: facai.jpg
+output: 15.jpg
+
+style: cat2.jpg
+content: facai.jpg
+input: facai.jpg
+output: 16.jpg
+
+style: emboss_horse.jpg
+content: facai.jpg
+input: facai.jpg
+output: 17.jpg
+
+style: cat3.jpg
+content: facai.jpg
+input: facai.jpg
+output: 18.jpg
+
+style: china.jpg
+content: facai.jpg
+input: facai.jpg
+output: 19.jpg
+
+style: KFC.jpg
+content: facai.jpg
+input: facai.jpg
+output: 20.jpg
